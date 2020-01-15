@@ -5,9 +5,9 @@
   <subtitle>面朝大海，春暖花开</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="https://liao-yong.github.io/liaoyong.github.io/"/>
+  <link href="https://liao-yong.github.io/"/>
   <updated>2020-01-15T07:10:46.222Z</updated>
-  <id>https://liao-yong.github.io/liaoyong.github.io/</id>
+  <id>https://liao-yong.github.io/</id>
   
   <author>
     <name>Yong Liao</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://liao-yong.github.io/liaoyong.github.io/2020/01/15/hello-world/"/>
-    <id>https://liao-yong.github.io/liaoyong.github.io/2020/01/15/hello-world/</id>
+    <link href="https://liao-yong.github.io/2020/01/15/hello-world/"/>
+    <id>https://liao-yong.github.io/2020/01/15/hello-world/</id>
     <published>2020-01-15T07:10:46.222Z</published>
     <updated>2020-01-15T07:10:46.222Z</updated>
     
